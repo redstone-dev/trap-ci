@@ -1,1 +1,8 @@
-
+import_srcs: >
+  - gcp
+create: >
+  - @connect
+connect_c: >
+  - escape_chars: >
+    - "@"
+    - "@yaml_dir"
