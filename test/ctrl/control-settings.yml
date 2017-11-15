@@ -1,0 +1,13 @@
+---
+alt-src-instructons:
+  - download-strings:
+    - data_atrib-parse-support
+    - data_atrib-parser-add
+    - data_atrib-parser-instructions:
+      - "data_atrib: parse"
+      - "data_atrib: return-parsed"
+      - "cycle: name: cycle-1"
+      - "data_atrib: returned-recycle"
+      - "cycle-1: abort"
+    - data-ifImage=burnIn_off
+...
