@@ -1,0 +1,12 @@
+<settings>
+  <setting name="alt-src">
+    <alt-src createAltSrc src-type="alt-cdn" src="https://ajax.googleapis.com" />
+		<version>
+		1.0
+			<patch>0</patch>
+		</version>
+		<bitString>
+			0101 1010 001001 1010101 0100 0000
+		</bitString>
+  </setting>
+</settings>
