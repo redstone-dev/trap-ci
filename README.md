@@ -5,5 +5,5 @@ Use YAML, XML and a terminal to use a powerful CI
  <ul>
   <li> <code>ctrl/settings.xml</code>
   <li> <code>ctrl/control-settings.yml</code>
-  <li> A terminal
+  <li> A terminal (or JS)
  </ul>
